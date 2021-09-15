@@ -1,0 +1,26 @@
+.header .section1{
+    background-color: black;
+    color: green;
+}
+
+.top-nav-link{
+    font-size: 25px;
+    color: green;
+    font-weight: 700;
+}
+
+/* carousel */
+.car-bg{
+    background-image: url(../media/matrix.gif);
+    background-size: cover;
+}
+
+.dark-div{
+    background-color: black;
+}
+
+.carousel-img{
+    height: auto;
+    padding: 0 15%;
+}
+/* end carousel */
